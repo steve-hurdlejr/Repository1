@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Hurdle, Steven A Jr CTR (USA)";RSVP=TRUE:mailto:steven.a.hurdl
+	e2.ctr@mail.mil
+CLASS:PUBLIC
+CREATED:20211209T213425Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________ \n\nMicrosoft Teams meeting \n\nJoin on your comput
+	er or mobile app \n\nClick here to join the meeting <https://teams.microso
+	ft.com/l/meetup-join/19%3ameeting_OTVhMDFhMDYtOTdlMy00YTNhLWFhMTEtNTU2OTZh
+	Y2IxYWI2%40thread.v2/0?context=%7b%22Tid%22%3a%2290ae2b3f-f889-48de-a8d4-4
+	59d51216af8%22%2c%22Oid%22%3a%228b43388a-b6d9-4403-8330-d1602841f55b%22%7d
+	>  \n\nJoin with a video conferencing device \n\n573837736@t.plcm.vc \n\nV
+	ideo Conference ID: 114 335 686 4 \n\nAlternate VTC instructions <https://
+	dialin.plcm.vc/teams/?key=573837736&conf=1143356864>  \n\nOr call in (audi
+	o only) \n\n+1 804-724-7811\,\,922711225# <tel:+18047247811\,\,922711225#>
+	    United States\, Richmond \n\nPhone Conference ID: 922 711 225# \n\nFin
+	d a local number <https://dialin.teams.microsoft.com/1569b9a2-2306-4552-96
+	43-728983bb97ec?id=922711225>  | Reset PIN <https://mysettings.lync.com/ps
+	tnconferencing>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeti
+	ng options <https://teams.microsoft.com/meetingOptions/?organizerId=8b4338
+	8a-b6d9-4403-8330-d1602841f55b&tenantId=90ae2b3f-f889-48de-a8d4-459d51216a
+	f8&threadId=19_meeting_OTVhMDFhMDYtOTdlMy00YTNhLWFhMTEtNTU2OTZhY2IxYWI2@th
+	read.v2&messageId=0&language=en-US>  \n\n_________________________________
+	_______________________________________________ \n\n \n\n
+DTEND;TZID="Eastern Standard Time":20211209T170000
+DTSTAMP:20211209T213337Z
+DTSTART;TZID="Eastern Standard Time":20211209T163000
+LAST-MODIFIED:20211209T213425Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Steven Hurdle Jr":mailto:steven.hurdlejr@bylight.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:test email filetypes
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000006027DA761AEDD701000000000000000
+	0100000000C2BFDC42FF4A6469C5EA7C585C241A1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Cali
+	bri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;
+	\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{ms
+	o-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	co
+	lor:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-f
+	amily:"Calibri"\,sans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\
+	n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1
+	\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" sp
+	idmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayou
+	t v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml>
+	<![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72" style='
+	word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><o:p>&nbs
+	p\;</o:p></p><div><p class=MsoNormal><span style='color:#5F5F5F'>_________
+	_______________________________________________________________________</s
+	pan> <o:p></o:p></p></div><div><div style='margin-top:.25in\;margin-bottom
+	:15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;font-family:"Se
+	goe UI"\,sans-serif\;color:#252424'>Microsoft Teams meeting</span><span st
+	yle='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span
+	></p></div><div style='margin-bottom:15.0pt'><div><p class=MsoNormal><b><s
+	pan style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'>Join on your computer or mobile app</span></b><b><span style='font-f
+	amily:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span></b></p></
+	div><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;co
+	lor:#252424'><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeti
+	ng_OTVhMDFhMDYtOTdlMy00YTNhLWFhMTEtNTU2OTZhY2IxYWI2%40thread.v2/0?context=
+	%7b%22Tid%22%3a%2290ae2b3f-f889-48de-a8d4-459d51216af8%22%2c%22Oid%22%3a%2
+	28b43388a-b6d9-4403-8330-d1602841f55b%22%7d" target="_blank"><span style='
+	font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#6264
+	A7'>Click here to join the meeting</span></a> <o:p></o:p></span></p></div>
+	<div style='margin-bottom:3.0pt'><p class=MsoNormal><b><span style='font-s
+	ize:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Join with a
+	 video conferencing device</span></b><span style='font-family:"Segoe UI"\,
+	sans-serif\;color:#252424'> <o:p></o:p></span></p></div><div><p class=MsoN
+	ormal><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;c
+	olor:#252424'>573837736@t.plcm.vc <o:p></o:p></span></p></div><div><p clas
+	s=MsoNormal><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-se
+	rif\;color:#252424'>Video Conference ID: </span><span style='font-size:12.
+	0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>114 335 686 4 </sp
+	an><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></
+	o:p></span></p></div><div style='margin-bottom:15.0pt'><p class=MsoNormal>
+	<span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#
+	252424'><a href="https://dialin.plcm.vc/teams/?key=573837736&amp\;conf=114
+	3356864"><span style='color:#6264A7'>Alternate VTC instructions</span></a>
+	 <o:p></o:p></span></p></div><div style='margin-bottom:3.0pt'><div style='
+	margin-bottom:3.0pt'><p class=MsoNormal><b><span style='font-size:10.5pt\;
+	font-family:"Segoe UI"\,sans-serif\;color:#252424'>Or call in (audio only)
+	</span></b><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'
+	> <o:p></o:p></span></p></div><div style='margin-bottom:3.0pt'><p class=Ms
+	oNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a
+	 href="tel:+18047247811\,\,922711225# "><span style='font-size:10.5pt\;col
+	or:#6264A7'>+1 804-724-7811\,\,922711225#</span></a> </span><span style='f
+	ont-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>&nbsp\
+	; United States\, Richmond </span><span style='font-family:"Segoe UI"\,san
+	s-serif\;color:#252424'><o:p></o:p></span></p></div></div><p class=MsoNorm
+	al><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;colo
+	r:#252424'>Phone Conference ID: </span><span style='font-size:12.0pt\;font
+	-family:"Segoe UI"\,sans-serif\;color:#252424'>922 711 225# </span><span s
+	tyle='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span
+	></p><div style='margin-bottom:15.0pt'><p class=MsoNormal><span style='fon
+	t-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://dialin.te
+	ams.microsoft.com/1569b9a2-2306-4552-9643-728983bb97ec?id=922711225" targe
+	t="_blank"><span style='font-size:10.5pt\;color:#6264A7'>Find a local numb
+	er</span></a> | <a href="https://mysettings.lync.com/pstnconferencing" tar
+	get="_blank"><span style='font-size:10.5pt\;color:#6264A7'>Reset PIN</span
+	></a> <o:p></o:p></span></p></div><div style='margin-top:15.0pt\;margin-bo
+	ttom:.25in'><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-s
+	erif\;color:#252424'><a href="https://aka.ms/JoinTeamsMeeting" target="_bl
+	ank"><span style='font-size:10.5pt\;color:#6264A7'>Learn More</span></a> |
+	 <a href="https://teams.microsoft.com/meetingOptions/?organizerId=8b43388a
+	-b6d9-4403-8330-d1602841f55b&amp\;tenantId=90ae2b3f-f889-48de-a8d4-459d512
+	16af8&amp\;threadId=19_meeting_OTVhMDFhMDYtOTdlMy00YTNhLWFhMTEtNTU2OTZhY2I
+	xYWI2@thread.v2&amp\;messageId=0&amp\;language=en-US" target="_blank"><spa
+	n style='font-size:10.5pt\;color:#6264A7'>Meeting options</span></a> <o:p>
+	</o:p></span></p></div></div><div><p class=MsoNormal><span style='color:#5
+	F5F5F'>___________________________________________________________________
+	_____________</span> <o:p></o:p></p></div><p class=MsoNormal><o:p>&nbsp\;<
+	/o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20211209T213337Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
