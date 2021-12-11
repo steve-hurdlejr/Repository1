@@ -1,4 +1,0 @@
-﻿#generated,Thu Sep 09 2021 10:23:26 GMT-0400
-#query,"interval=30d | Down=sum(rx_bytes) Up=sum(tx_bytes) "
-"Down","55.33TB"
-"Up","549.26GB"
